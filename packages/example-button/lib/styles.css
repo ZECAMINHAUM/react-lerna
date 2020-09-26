@@ -1,0 +1,27 @@
+.Button {
+    height: 15%;
+    width: auto;
+    outline: none;
+    cursor: pointer;
+    font-size: 15px;
+    color: #000000;
+    border-radius: 15;
+    background: #c1c1c1c1;
+    border: 1 solid #c1c1c1;
+}
+
+.Button:hover,
+.Button:focus {
+    background-color: #ffffff;
+}
+
+.ButtonSecondary {
+    color: #ffffff;
+    background: #000000;
+    border-color: #c1c1c1;
+}
+
+.ButtonSecondary:hover,
+.ButtonSecondary:focus {
+    background-color: #bf000000;
+}
