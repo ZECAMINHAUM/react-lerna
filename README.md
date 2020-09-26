@@ -11,3 +11,32 @@ I'll leave the links bellow if you're interested about it.
 #### Resume
 
 Well, actually I didn't that much, I just split a components in in small modules and I joined them in one main module.
+
+#### Usage
+
+If you're interested of check out the components, run these commands.
+
+fisrt of all you need to link the local packages so run:
+```console
+$ npx lerna bootstrap
+```
+Or if you already have Lerna installed in your computer run: 
+```console
+$ lerna bootstrap
+```
+
+Then you need to install these packages in your main project by running: 
+```console
+$ npm i
+or
+$ yarn
+```
+
+And finnelly run the server with:
+
+```console
+$ yarn storybook
+or 
+$ npm run storybook
+```
+
