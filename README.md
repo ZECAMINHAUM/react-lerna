@@ -4,9 +4,9 @@ This is just a simple project that i create for play with monorepos using lerna.
 I'll leave the links bellow if you're interested about it.
 
 #### Links
-[Monorepos](https://blog.npmjs.org/post/186494959890/monorepos-and-npm)
-[Lerna](https://lerna.js.org/)
-[Storybook](https://storybook.js.org/)
+ - [Monorepos](https://blog.npmjs.org/post/186494959890/monorepos-and-npm)
+ - [Lerna](https://lerna.js.org/)
+ - [Storybook](https://storybook.js.org/)
 
 #### Resume
 
